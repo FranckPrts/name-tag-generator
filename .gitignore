@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+nametags_filled.pdf
+nametag_template.pdf
+example_attendees.csv
